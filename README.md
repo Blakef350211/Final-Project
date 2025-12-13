@@ -1,2 +1,9 @@
 # Final-Project
-Hi my name is Blake, I am majoring in Electrical Engineering and this is my last semester at OCCC.
+Team Members:
+- Steven Flora (sole contributor)
+
+Contribution Breakdown:
+- design
+- GUI implementation
+- serialization and file handling
+- testing and documentation
