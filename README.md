@@ -16,3 +16,19 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+# Person GUI Project
+
+Final Java GUI project for CS course.
+
+## Features
+- Add / Edit / Delete Person types
+- Save / Load using serialization
+- CardLayout editor panels
+- Input validation
+
+## Author
+Steven Flora
+
+## Demo Video
+(YouTube link here)
