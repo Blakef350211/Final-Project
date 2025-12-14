@@ -1,3 +1,13 @@
+/*
+ * Name: Steven Flora
+ * Course: [Advanced Java / CS 2463 TW01F]
+ * Project: Person GUI Final Project
+ * File: PersonEditorPanel.java
+ * Editor panel for creating and editing basic Person objects.
+ * Provides input fields for common Person attributes such as
+ * first name, last name, and date of birth. This panel is shown
+ * using CardLayout while a Person is under construction.
+ */
 import java.awt.*;
 import java.util.Calendar;
 import javax.swing.*;
@@ -91,4 +101,5 @@ public class PersonEditorPanel extends JPanel
         p.birthDate = cal.getTime();
         return p;
     }
+
 }
