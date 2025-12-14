@@ -1,3 +1,10 @@
+/*
+ * Name: Steven Flora
+ * Project: Person GUI Final Project
+ * File: PersonListPanel.java
+ * Displays the list of Person objects and allows adding
+ * and deleting persons from the collection.
+ */
 import java.awt.*;
 import javax.swing.*;
 
@@ -69,4 +76,5 @@ public class PersonListPanel extends JPanel
     {
         return personJList;
     }
+
 }
