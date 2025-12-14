@@ -1,3 +1,11 @@
+/*
+ * Name: Steven Flora
+ * Course: [Advanced Java / CS 2463 TW01F]
+ * Project: Person GUI Final Project
+ * File: PersonGUI.java
+ * Main application window. Handles menus, file operations,
+ * and switching between editor panels using CardLayout.
+ */
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -284,4 +292,5 @@ public class PersonGUI extends JFrame
     {
     SwingUtilities.invokeLater(() -> new PersonGUI());
 }
+
 }
