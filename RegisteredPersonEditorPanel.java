@@ -1,3 +1,14 @@
+/*
+ * Name: Steven Flora
+ * Course: [Advanced Java / CS 2463 TW01F]
+ * Project: Person GUI Final Project
+ * File: RegisteredPersonEditorPanel.java
+ * Editor panel for creating and editing RegisteredPerson objects.
+ * Extends the basic Person editor functionality by adding input
+ * fields for a government-issued identification number. This panel
+ * is displayed using CardLayout while a RegisteredPerson is being
+ * created or edited.
+ */
 import java.awt.*;
 import java.util.Calendar;
 import javax.swing.*;
@@ -44,3 +55,4 @@ public class RegisteredPersonEditorPanel extends PersonEditorPanel
         return rp;
     }
 }
+
