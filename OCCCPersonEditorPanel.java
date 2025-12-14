@@ -1,3 +1,13 @@
+/*
+ * Name: Steven Flora
+ * Course: [Advanced Java / CS 2463 TW01F]
+ * Project: Person GUI Final Project
+ * File: OCCCPersonEditorPanel.java
+ * Editor panel for creating and editing OCCCPerson objects.
+ * Extends the RegisteredPerson editor functionality by adding
+ * OCCC-specific input fields. This panel is displayed using
+ * CardLayout while an OCCCPerson is under construction.
+ */
 import java.awt.*;
 import java.util.Calendar;
 import javax.swing.*;
@@ -42,4 +52,5 @@ class OCCCPersonEditorPanel extends RegisteredPersonEditorPanel
         op.birthDate = cal.getTime();
         return op;
     }
+
 }
