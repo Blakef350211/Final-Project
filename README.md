@@ -30,10 +30,11 @@ Final Java GUI project for CS course.
 ## Author
 Steven Flora
 
-## Demo Video
-(YouTube link here)
+## Video link
+[(YouTube link here)](https://streamyard.com/teams/HdiMOaloLTL7TAJPsILP8M7h/videos/s4h69cfircme)
 
 ## GitHub Repository
 https://github.com/Blakef350211/Final-Project
+
 
 
